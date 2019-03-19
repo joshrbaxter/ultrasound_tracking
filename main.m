@@ -22,7 +22,7 @@ probe = 'p6';
 
 % data directory
 
-subdir = '.\..\Sample Videos\Sample Subject Data\S1';
+subdir = '.\sample_data';
 datadir = fullfile(subdir,'Ultrasound','Clips');
 datafiles = dir(fullfile(datadir,('*.mat')));
 nfiles = size(datafiles);
