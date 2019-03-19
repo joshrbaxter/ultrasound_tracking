@@ -8,7 +8,7 @@ Drazan JF, Hullfish TJ, Baxter JR. 2019. An automatic fascicle tracking algorith
 
 Before we get started, just a friendly reminder that you get what you pay for... while the goal of this project is to help others with tracking ultrasound videos of muscle contractions, I am not a software developer and cannot provide high quality support but I'll try.... probably.
 
-To get started, download the code and Sample Subject Data folders. 
+To get started, download the code and ultrasound folder. 
 
 main.m will run the example code and get you started.
 
