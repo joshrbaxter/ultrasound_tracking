@@ -1,0 +1,13 @@
+20170518 140521.tvd,3cm_org_R_01.cap
+20170518 140700.tvd,X_area_R_01.cap
+20170518 141156.tvd,3cm_org_L_01.cap
+20170518 141319.tvd,X_area_L_01.cap
+20170518 141844.tvd,4cm_MTJ_R_01.cap
+20170518 142409.tvd,4cm_MTJ_L_01.cap
+20170518 142613.tvd,4cm_panorama_L_01.cap
+20170518 142706.tvd,4cm_panorama_L_02.cap
+20170518 142950.tvd,4cm_panorama_L_03.cap
+20170518 143306.tvd,4cm_MTJ_R_post_01.cap
+20170518 143423.tvd,4cm_panorama_R_01.cap
+20170518 143501.tvd,4cm_panorama_R_02.cap
+20170518 143613.tvd,4cm_panorama_R_03.cap
