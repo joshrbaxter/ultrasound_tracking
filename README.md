@@ -6,9 +6,11 @@ NOTE: I'll try to comment this code and post any improvements. If you are intere
 
 Drazan JF, Hullfish TJ, Baxter JR. 2019. An automatic fascicle tracking algorithm quantifying gastrocnemius architecture during maximal effort contractions. PeerJ Preprints 7:e27475v1 https://doi.org/10.7287/peerj.preprints.27475v1
 
+NOTE: complete data from the fascicle tracking algorithm development/validation are hosted on https://zenodo.org/record/2598553
+
 Before we get started, just a friendly reminder that you get what you pay for... while the goal of this project is to help others with tracking ultrasound videos of muscle contractions, I am not a software developer and cannot provide high quality support but I'll try.... probably.
 
 To get started, download the code and ultrasound folder. 
 
-main.m will run the example code and get you started.
+tracking/main.m will run the example code and get you started.
 
